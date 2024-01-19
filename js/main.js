@@ -1,12 +1,3 @@
-/*  ---------------------------------------------------
-    Theme Name: PONIGYM
-    Description:
-    Author:
-    Author URI:
-    Version: 1.0
-    Created:
----------------------------------------------------------  */
-
 'use strict';
 
 (function ($) {
